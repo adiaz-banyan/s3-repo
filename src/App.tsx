@@ -33,8 +33,6 @@ function App() {
     setFile(file);
   };
 
-  console.log(currentImage);
-
   return (
     <div className='App'>
       <header className='App-header'>Amazon s3 bucket</header>
